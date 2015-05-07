@@ -1,6 +1,6 @@
 #Reset Module
 
-The `reset` module resets certain elements, and provide sensible defaults for others.
+The `reset` module resets certain elements' margin and padding.
 
 ## Installation
 

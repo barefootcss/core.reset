@@ -4,7 +4,7 @@
   "authors": [
     "Eric Harms <barefoot.css@gmail.com>"
   ],
-  "description": "The reset module resets certain elements, and provide sensible defaults for others.",
+  "description": "The reset module resets certain elements' margin and padding.",
   "main": "_core.reset.scss",
   "keywords": [
     "barefoot",
