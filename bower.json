@@ -13,10 +13,6 @@
     "framework"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/barefootcss/core.reset",
-  "dependencies": {
-    "bare-defaults": "~0.1.0",
-    "bare-functions": "~0.1.0"
-  }
+  "homepage": "https://github.com/barefootcss/core.reset"
 }
   
